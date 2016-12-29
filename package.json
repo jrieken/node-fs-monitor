@@ -1,0 +1,14 @@
+{
+  "name": "node-fs-monitor",
+  "version": "0.0.1",
+  "description": "Tool to measure node fs times",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/index.test.js"
+  },
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
